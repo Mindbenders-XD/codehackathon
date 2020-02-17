@@ -7,6 +7,9 @@
     "test": "npm test",
     "start": "node server.js"
   },
+  "dependencies": {
+    "express": "^4.17.1",
+  },
   "repository": {
     "type": "git",
     "url": "a"
